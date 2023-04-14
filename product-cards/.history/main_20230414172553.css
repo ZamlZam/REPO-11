@@ -46,12 +46,5 @@ body{
   color:teal;
   font-weight: 900;
   letter-spacing: 2px;
-  font-size: 20px;
-  white-space: nowrap;
-}
-
-.card-wrap .card1 .card-body{
-  font-style: 14px;
-  line-height: 24px;
-  color:black;
+  font
 }

@@ -1,0 +1,28 @@
+body{
+  background-color:honeydew;
+}
+
+.wrapper .header {
+  width: 100%;
+  height: 50px;
+  background: lightgreen;
+  color: lightcoral;
+  text-align: center;
+  align-items: center;
+  font-size: 30px;
+  display:flex;
+  justify-content: center;
+  font-weight:500;
+}
+
+.card-wrap {
+  padding: 25px;
+  background-color:salmon;
+  width: 20%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  
+}

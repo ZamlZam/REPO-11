@@ -25,33 +25,6 @@ body{
   flex-wrap: wrap;
 }
 
-.card-wrap .card-item {
-  padding: 15px 25px;
-  width: 25%;
-}
-
 .card-wrap .card1 {
-  padding: 35px 20px;
-  border-radius: 5px;
-  min-width: 225px;
-  min-height: 300px;
-}
 
-.card-wrap .card1 img{
-  margin-bottom: 5px;
-  align-items: center;
-}
-
-.card-wrap .card1 .whiskey{
-  color:teal;
-  font-weight: 900;
-  letter-spacing: 2px;
-  font-size: 20px;
-  white-space: nowrap;
-}
-
-.card-wrap .card1 .card-body{
-  font-style: 14px;
-  line-height: 24px;
-  color:black;
 }

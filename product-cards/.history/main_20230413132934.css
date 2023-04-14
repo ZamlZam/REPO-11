@@ -1,0 +1,12 @@
+body{
+  background-color:honeydew;
+}
+
+.wrapper .header {
+  width: 150x;
+  height: 50px;
+  background: lightgreen;
+  color: lightcoral;
+  text-align: center;
+
+}
