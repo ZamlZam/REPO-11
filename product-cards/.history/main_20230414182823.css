@@ -1,0 +1,58 @@
+body{
+  background-color:honeydew;
+}
+
+.wrapper .header {
+  width: 100%;
+  height: 50px;
+  background: lightgreen;
+  color: lightcoral;
+  text-align: center;
+  align-items: center;
+  font-size: 30px;
+  display:flex;
+  justify-content: center;
+  font-weight:500;
+}
+
+.card-wrap {
+  padding: 25px;
+  
+  width: 20%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-wrap .card-item {
+  padding: 15px 25px;
+  width: 25%;
+}
+
+.card-wrap .card1 {
+  padding: 35px 20px;
+  border-radius: 5px;
+  min-width: 225px;
+  min-height: 300px;
+}
+
+.card-wrap .card1 img{
+  margin-bottom: 5px;
+  align-items: center;
+  background-color:salmon;
+}
+
+.card-wrap .card1 .whiskey{
+  color:teal;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 20px;
+  white-space: nowrap;
+}
+
+.card-wrap .card1 .card-body{
+  font-style: 14px;
+  line-height: 24px;
+  color:black;
+}

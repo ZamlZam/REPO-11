@@ -5,8 +5,8 @@ body{
 .wrapper .header {
   width: 100%;
   height: 50px;
-  background: rgb(165, 88, 88);
-  color: rgb(162, 190, 144);
+  background: lightgreen;
+  color: lightcoral;
   text-align: center;
   align-items: center;
   font-size: 30px;
@@ -220,7 +220,7 @@ body{
 .card-wrap5 .card-item5 {
   padding: 15px 25px;
   width: 100%;
-  background-color:rgb(59, 130, 172);
+  background-color:rgb(66, 135, 175);
 }
 
 .card-wrap5 .card5 {
@@ -236,7 +236,7 @@ body{
 }
 
 .card-wrap5 .card5 .Sake{
-  color:rgb(202, 212, 214);
+  color:rgb(70, 126, 136);
   font-weight: 900;
   letter-spacing: 2px;
   font-size: 35px;

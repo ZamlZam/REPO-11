@@ -5,8 +5,8 @@ body{
 .wrapper .header {
   width: 100%;
   height: 50px;
-  background: rgb(165, 88, 88);
-  color: rgb(162, 190, 144);
+  background: lightgreen;
+  color: lightcoral;
   text-align: center;
   align-items: center;
   font-size: 30px;
@@ -78,7 +78,7 @@ body{
 .card-wrap2 .card-item2 {
   padding: 15px 25px;
   width: 100%;
-  background-color:tan;
+  background-color:khaki;
 }
 
 .card-wrap2 .card2 {
@@ -94,7 +94,7 @@ body{
 }
 
 .card-wrap2 .card2 .tequila{
-  color:brown;
+  color:mediumaquamarine;
   font-weight: 900;
   letter-spacing: 2px;
   font-size: 35px;
@@ -112,7 +112,7 @@ body{
 
 /**/
 
-.card-wrap3 {
+.card-wrap2 {
   padding: 25px;
   
   width: 20%;
@@ -122,13 +122,13 @@ body{
   flex-wrap: wrap;
 }
 
-.card-wrap3 .card-item3 {
+.card-wrap2 .card-item2 {
   padding: 15px 25px;
   width: 100%;
-  background-color:rgb(140, 175, 124);
+  background-color:khaki;
 }
 
-.card-wrap3 .card3 {
+.card-wrap2 .card2 {
   padding: 35px 20px;
   border-radius: 5px;
   min-width: 225px;
@@ -136,12 +136,12 @@ body{
  
 }
 
-.card-wrap3 .card3 img{
+.card-wrap2 .card2 img{
   margin-bottom: 5px;
 }
 
-.card-wrap3 .card3 .rum{
-  color:rgb(190, 207, 89);
+.card-wrap23 .card3 .tequila{
+  color:mediumaquamarine;
   font-weight: 900;
   letter-spacing: 2px;
   font-size: 35px;
@@ -152,101 +152,6 @@ body{
 }
 
 .card-wrap3 .card3 .card-body3{
-  font-style: 14px;
-  line-height: 24px;
-  color:black;
-}
-
-
-/**/
-
-.card-wrap4 {
-  padding: 25px;
-  
-  width: 20%;
-  height: 100%;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-.card-wrap4 .card-item4 {
-  padding: 15px 25px;
-  width: 100%;
-  background-color:rgb(214, 170, 74);
-}
-
-.card-wrap4 .card4 {
-  padding: 35px 20px;
-  border-radius: 5px;
-  min-width: 225px;
-  min-height: 300px;
- 
-}
-
-.card-wrap4 .card4 img{
-  margin-bottom: 5px;
-}
-
-.card-wrap4 .card4 .Vodka{
-  color:rgb(190, 207, 89);
-  font-weight: 900;
-  letter-spacing: 2px;
-  font-size: 35px;
-  white-space: nowrap;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
-}
-
-.card-wrap4 .card4 .card-body4{
-  font-style: 14px;
-  line-height: 24px;
-  color:black;
-}
-
-/**/
-
-.card-wrap5 {
-  padding: 25px;
-  
-  width: 20%;
-  height: 100%;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-.card-wrap5 .card-item5 {
-  padding: 15px 25px;
-  width: 100%;
-  background-color:rgb(59, 130, 172);
-}
-
-.card-wrap5 .card5 {
-  padding: 35px 20px;
-  border-radius: 5px;
-  min-width: 225px;
-  min-height: 300px;
- 
-}
-
-.card-wrap5 .card5 img{
-  margin-bottom: 5px;
-}
-
-.card-wrap5 .card5 .Sake{
-  color:rgb(202, 212, 214);
-  font-weight: 900;
-  letter-spacing: 2px;
-  font-size: 35px;
-  white-space: nowrap;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
-}
-
-.card-wrap5 .card5 .card-body5{
   font-style: 14px;
   line-height: 24px;
   color:black;
